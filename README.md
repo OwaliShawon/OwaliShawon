@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... with your comfort line!
 - 😄 Pronouns: ... WALL - E!
-- ⚡ Fun fact: ... LEBUUU!
+- ⚡ Fun fact: ... LEBUUU! 
 -->
