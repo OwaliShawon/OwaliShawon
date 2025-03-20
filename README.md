@@ -6,7 +6,7 @@
   <tr>
     <td>
       <a href="https://app.daily.dev/owalishawon">
-        <img src="https://api.daily.dev/devcards/v2/eGcUCNJqsljAoPpvehbEg.png?type=default&r=j1z" width="356" alt="Owali Ullah Shawon's Dev Card"/>
+        <a href="https://app.daily.dev/owalishawon"><img src="./devcard.png" width="356" alt="Owali Ullah Shawon's Dev Card"/></a>
       </a>
     </td>
     <td>
